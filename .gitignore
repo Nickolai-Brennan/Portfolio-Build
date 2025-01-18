@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/build
+/.vscode
+.idea/
+Thumbs.db
+.DS_Store
+*.log
